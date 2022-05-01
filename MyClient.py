@@ -5,8 +5,8 @@ import pickle
 import sys
 #importing libraries
 serverName= "127.0.0.1"
-serverPort=12000
-file = 'cn.pdf'
+serverPort=int(sys.argv[1])
+file = ''.join(sys.argv[2])
 clientSocket = socket(AF_INET,SOCK_DGRAM)
 clientSocket.settimeout(0.001)
 seqNum=1
