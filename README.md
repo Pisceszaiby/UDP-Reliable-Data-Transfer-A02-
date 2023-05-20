@@ -4,4 +4,4 @@ BadNet files are given for testing the program. The underlying channel in the Ba
 # Group Members:
 Zainab Anwaar
 
-Sadia Rehman
+Sadia Rehman (https://github.com/sadiarehman)
